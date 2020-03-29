@@ -30,3 +30,25 @@ var age = n;
 var voteable =(age < 18)? "Too Young" : "Old Enough"
 alert(voteable); 
 
+
+//Switch Statement 
+
+
+var fruits ;
+switch
+(fruits) {
+  
+case
+ "Banana":
+    alert("Hello")
+    break;
+  
+case
+ "Apple":
+    alert("Welcome")
+    break;    
+ 
+default:
+    alert("Neither");
+        }
+        
